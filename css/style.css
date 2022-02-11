@@ -82,11 +82,12 @@ body {
 }
 
 .user-list .user-info h4 {
-  margin: 0 0 10px;
+  margin: 0 0 5px;
 }
 
 .user-list .user-info p {
   font-size: 12px;
+  margin: 5px 0;
 }
 
 .user-list li:not(:last-of-type) {
